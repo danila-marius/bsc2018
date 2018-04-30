@@ -1,7 +1,7 @@
 Abstract
 --------
 
-    Se doreste proiectarea si antrenarea unei retele neuronale cu scopul de a genera 
+Se doreste proiectarea si antrenarea unei retele neuronale cu scopul de a genera 
 retele de sortare optimale. Abstractizand, putem vizualiza o retea de sortare ca pe
 o lista ordonata de comparatori (sau swapuri) pe care le aplicam celor `n` fire 
 din retea. Modul in care se poate rezolva aceasta problema conceperea unei retele
